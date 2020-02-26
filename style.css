@@ -1,0 +1,14 @@
+@media (prefers-color-scheme: dark) {
+    body {
+      background: darkblue !important;
+      color: pink;
+    }
+
+  }
+
+  @media (prefers-color-scheme: light) {
+    body {
+      background: lightgoldenrodyellow !important;
+      color: #555 !important;
+    }
+  }
